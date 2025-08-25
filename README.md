@@ -1,11 +1,14 @@
-# Hi! 👋 I'm Joshua Osunlakin  
+# Hi! 👋 I'm Joshua Osunlakin
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;Community+Manager;Fullstack+Engineer;Open-Source+Contributor&font=Fira%20Code&center=true&width=480&height=50&duration=4000&pause=1000" alt="Typing SVG" />
-</div>  
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;Community+Manager;Fullstack+Engineer&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG" />
+</div>
 
-💻 **Frontend Developer** with 3+ years of community management experience in blockchain ecosystems.  
-🎓 **GoMyCode Graduate** passionate about building scalable and responsive web applications.  
+**Frontend Developer** with 3+ years of community management experience at blockchain companies.  
+A **GoMyCode** graduate building responsive web applications.  
+
+[![wakatime](https://wakatime.com/badge/user/6020723c-36f7-4229-b9a9-3d273e017ac8.svg)](https://wakatime.com/@6020723c-36f7-4229-b9a9-3d273e017ac8)
+
 🌍 Bridging **tech, community, and innovation** through code and collaboration.  
 
 ---
@@ -28,7 +31,7 @@
 
 ## 💼 Currently  
 
-- 🚀 **Community Manager** at [RebusChain](https://rebuschain.com) (Cosmos blockchain)  
+- 🚀 **Community Manager** at [RebusChain](https://www.rebuschain.com) (Cosmos blockchain)  
 - 🌱 **Founder** of **GilRevv** – a mental health tech platform  
 - 🛠️ Building **fullstack applications** with the **MERN stack + TypeScript**  
 
@@ -40,7 +43,7 @@
 - 📝 **Note Taking App** – MERN stack with authentication  
 - 📍 **IP Tracker** – Location tracking with interactive maps  
 - 🍽️ **Restaurant Interface** – Responsive digital menu browsing  
-⚡ *More exciting projects on the way...*  
+⚡ *Building more exciting personal projects...*  
 
 ---
 
@@ -52,6 +55,13 @@
 </div>  
 
 ---
+## ⏱️ WakaTime Stats  
+
+[![wakatime](https://wakatime.com/badge/user/6020723c-36f7-4229-b9a9-3d273e017ac8.svg)](https://wakatime.com/@6020723c-36f7-4229-b9a9-3d273e017ac8)
+
+<div align="center">
+</div>
+
 
 ## 🤝 Connect with Me  
 
