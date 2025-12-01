@@ -36,11 +36,9 @@ A **GoMyCode** graduate building responsive web applications.
 
 
 
----
+--- 
 
-## 💼 Currently  
-
-- 🚀 **Community Manager** at [RebusChain](https://www.rebuschain.com) (Cosmos blockchain)  
+- 🚀 **Former Community Manager** at [RebusChain](https://www.rebuschain.com) (Cosmos blockchain)  
 - 🌱 **Founder** of **GilRevv** – a mental health tech platform  
 - 🛠️ Building **fullstack applications** with the **MERN stack + TypeScript**  
 
