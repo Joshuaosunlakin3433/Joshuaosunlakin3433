@@ -1,7 +1,7 @@
 # Hi! 👋 I'm Joshua Osunlakin
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain+Developer;Web3 Community+Manager;Fullstack+Engineer&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain+Developer;Web3+Community+Manager;Fullstack+Engineer&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG" />
 </div>
 
 **Blockchain Developer** with 3+ years of community management experience at blockchain companies.  
