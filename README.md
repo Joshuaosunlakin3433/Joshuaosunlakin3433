@@ -41,12 +41,17 @@ A **GoMyCode** graduate building responsive web applications.
 - 🚀 **Former Community Manager** at [RebusChain](https://www.rebuschain.com) (Cosmos blockchain)  
 - 🌱 **Founder** of **GilRevv** – a mental health tech platform  
 - 🛠️ Building **fullstack applications** with the **MERN stack + TypeScript**  
+- 🪙 Blockchain Developer at [Stacks](https://www.stacks.co/)  
 
 ---
 
 ## 🚀 Featured Projects  
 
-- 🌦️ **Weather App** – React + API + Geolocation  
+- 🏦 **Automated Market Maker** – Clarity + Stacks.js + NextJS + TailwindCSS + Zustand   
+- 🪙 **HighStackers** – a PvP betting game built on Stacks blockchain featuring instant game resolution and a unique "Restack Rebate" mechanic. Built with React Three Fibre + Clarity + Stacks.js + TailwindCSS
+- 🎮 **On-chain TicTacToe Game** - Clarity + Stacks.js + NextJS + TailwindCSS 
+- 📝 **AI powered Blog App** - React + TailwindCSS + ExpressJs + ClaudeAI
+- 🌦️ **Weather App** – React + API + Geolocation
 - 📝 **Note Taking App** – MERN stack with authentication  
 - 📍 **IP Tracker** – Location tracking with interactive maps  
 - 🍽️ **Restaurant Interface** – Responsive digital menu browsing  
