@@ -1,10 +1,10 @@
 # Hi! 👋 I'm Joshua Osunlakin
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;Community+Manager;Fullstack+Engineer&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain+Developer;Web3 Community+Manager;Fullstack+Engineer&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG" />
 </div>
 
-**Frontend Developer** with 3+ years of community management experience at blockchain companies.  
+**Blockchain Developer** with 3+ years of community management experience at blockchain companies.  
 A **GoMyCode** graduate building responsive web applications.  
 
 [![wakatime](https://wakatime.com/badge/user/6020723c-36f7-4229-b9a9-3d273e017ac8.svg)](https://wakatime.com/@6020723c-36f7-4229-b9a9-3d273e017ac8)
