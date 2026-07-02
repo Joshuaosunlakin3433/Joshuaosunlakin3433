@@ -41,7 +41,7 @@ Fullstack engineer building **AI-powered and agentic web apps** end to end, from
 - 🚀 **Former Community Manager** at [RebusChain](https://www.rebuschain.com) (Cosmos blockchain)  
 - 🌱 **Founder** of **GilRevv** – a mental health tech platform  
 - 🛠️ Building **fullstack applications** with the **MERN stack + TypeScript**  
-- 🪙 Blockchain Developer at [Stacks](https://www.stacks.co/)  
+- 🪙 Blockchain Developer
 
 ---
 
