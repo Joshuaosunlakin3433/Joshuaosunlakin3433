@@ -4,8 +4,8 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Fullstack+Engineer;AI-Assisted+Builder;Blockchain+Engineer;Web3+Community+Manager&font=Fira%20Code&center=true&width=420&height=50&duration=4000&pause=1000" alt="Typing SVG" />
 </div>
 
-Fullstack engineer building **AI-powered web apps** end to end, frontend to backend to LLM integration.  
-**MERN + TypeScript** core, shipping across Web2 and Web3. Earlier chapter: **3+ years** managing Web3 communities.
+Fullstack engineer building **AI-powered and agentic web apps** end to end — frontend to backend to LLM integration.
+**TypeScript + Next.js** core, shipping across Web2 and Web3. Earlier chapter: **3+ years** managing Web3 communities.
 
 [![wakatime](https://wakatime.com/badge/user/6020723c-36f7-4229-b9a9-3d273e017ac8.svg)](https://wakatime.com/@6020723c-36f7-4229-b9a9-3d273e017ac8)
 
@@ -45,17 +45,16 @@ Fullstack engineer building **AI-powered web apps** end to end, frontend to back
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Featured Projects
 
-- 🏦 **Automated Market Maker** – Clarity + Stacks.js + NextJS + TailwindCSS + Zustand   
-- 🪙 **HighStackers** – a PvP betting game built on Stacks blockchain featuring instant game resolution and a unique "Restack Rebate" mechanic. Built with React Three Fibre + Clarity + Stacks.js + TailwindCSS
-- 🎮 **On-chain TicTacToe Game** - Clarity + Stacks.js + NextJS + TailwindCSS 
-- 📝 **AI powered Blog App** - React + TailwindCSS + ExpressJs + ClaudeAI
-- 🌦️ **Weather App** – React + API + Geolocation
-- 📝 **Note Taking App** – MERN stack with authentication  
-- 📍 **IP Tracker** – Location tracking with interactive maps  
-- 🍽️ **Restaurant Interface** – Responsive digital menu browsing  
-⚡ *Building more exciting personal projects...*  
+- 🧪 **Forklab** – AI research-lab notebook built on MemForks (Sui/Walrus). Two hypothesis branches argue opposite sides of a question, critics rebut, and a consensus merge commits the verdict on-chain — making the learning provable. Next.js + TypeScript
+- 🧠 **OneTrivia** – Gasless, agentic knowledge economy on OneChain
+- 🤖 **Monad Butler** – Agentic DeFi assistant on Monad Testnet
+- 💳 **Subwise Protocol** – AI-powered subscription management on Cronos. TypeScript-native x402 pull-payment implementation for autonomous recurring payments. Built for the Cronos x402 Paytech Hackathon (x402 Agentic Finance track)
+- 🪙 **HighStackers** – PvP betting game on Stacks with instant resolution and a "Restack Rebate" mechanic. React Three Fiber + Clarity + Stacks.js
+- 🏦 **Automated Market Maker** – Clarity + Stacks.js + Next.js + Zustand
+
+🔨 *Currently building: GilRevv — (v1 in progress)*
 
 ---
 
